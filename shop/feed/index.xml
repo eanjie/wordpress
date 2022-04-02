@@ -12,7 +12,7 @@
 	<atom:link href="https://whalesoap.my/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://whalesoap.my/</link>
 	<description>Join the organic movement!</description>
-	<lastBuildDate>Sat, 02 Apr 2022 03:02:59 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 02 Apr 2022 04:12:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Lemon Soap</title>
+		<link>https://whalesoap.my/product/lemon-soap/</link>
+					<comments>https://whalesoap.my/product/lemon-soap/#respond</comments>
+		
+		<dc:creator><![CDATA[whalesoap]]></dc:creator>
+		<pubDate>Sat, 02 Apr 2022 04:08:53 +0000</pubDate>
+				<guid isPermaLink="false">https://whalesoap.my/?post_type=product&#038;p=5082</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://whalesoap.my/product/lemon-soap/">Lemon Soap</a> appeared first on <a rel="nofollow" href="https://whalesoap.my/">Organic Store</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://whalesoap.my/product/lemon-soap/">Lemon Soap</a> appeared first on <a rel="nofollow" href="https://whalesoap.my/">Organic Store</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://whalesoap.my/product/lemon-soap/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Handpicked Res</title>
 		<link>https://whalesoap.my/product/handpicked-red-chillies/</link>
 					<comments>https://whalesoap.my/product/handpicked-red-chillies/#respond</comments>
@@ -212,27 +231,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://whalesoap.my/product/wheat-from-organic-farms/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Diabetic Cookies</title>
-		<link>https://whalesoap.my/product/diabetic-cookies/</link>
-					<comments>https://whalesoap.my/product/diabetic-cookies/#respond</comments>
-		
-		<dc:creator><![CDATA[whalesoap]]></dc:creator>
-		<pubDate>Tue, 19 Jun 2018 13:34:23 +0000</pubDate>
-				<guid isPermaLink="false">https://whalesoap.my/product/diabetic-cookies/</guid>
-
-					<description><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.</p>
-<p>The post <a rel="nofollow" href="https://whalesoap.my/product/diabetic-cookies/">Diabetic Cookies</a> appeared first on <a rel="nofollow" href="https://whalesoap.my/">Organic Store</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.</p>
-<p>The post <a rel="nofollow" href="https://whalesoap.my/product/diabetic-cookies/">Diabetic Cookies</a> appeared first on <a rel="nofollow" href="https://whalesoap.my/">Organic Store</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://whalesoap.my/product/diabetic-cookies/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
