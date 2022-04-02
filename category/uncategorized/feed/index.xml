@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; Organic Store</title>
+	<title>Uncategorized &#8211; Whale Soap</title>
 	<atom:link href="https://whalesoap.my/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://whalesoap.my/</link>
-	<description>Join the organic movement!</description>
+	<description>Malaysia&#039;s Handcrafted Soap</description>
 	<lastBuildDate>Wed, 30 Mar 2022 11:43:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://whalesoap.my/wp-content/uploads/2022/03/whale-font-logo-png-100x100.png</url>
-	<title>Uncategorized &#8211; Organic Store</title>
+	<title>Uncategorized &#8211; Whale Soap</title>
 	<link>https://whalesoap.my/</link>
 	<width>32</width>
 	<height>32</height>
@@ -38,11 +38,11 @@
 		<guid isPermaLink="false">https://whalesoap.my/?p=1</guid>
 
 					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p>The post <a rel="nofollow" href="https://whalesoap.my/2022/03/30/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://whalesoap.my/">Organic Store</a>.</p>
+<p>The post <a rel="nofollow" href="https://whalesoap.my/2022/03/30/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://whalesoap.my/">Whale Soap</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p>The post <a rel="nofollow" href="https://whalesoap.my/2022/03/30/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://whalesoap.my/">Organic Store</a>.</p>
+<p>The post <a rel="nofollow" href="https://whalesoap.my/2022/03/30/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://whalesoap.my/">Whale Soap</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://whalesoap.my/2022/03/30/hello-world/feed/</wfw:commentRss>
@@ -60,9 +60,9 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://whalesoap.my/2021/12/03/test/</guid>
 
-					<description><![CDATA[<p>The post <a rel="nofollow" href="https://whalesoap.my/2021/12/03/test/">Test</a> appeared first on <a rel="nofollow" href="https://whalesoap.my/">Organic Store</a>.</p>
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://whalesoap.my/2021/12/03/test/">Test</a> appeared first on <a rel="nofollow" href="https://whalesoap.my/">Whale Soap</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://whalesoap.my/2021/12/03/test/">Test</a> appeared first on <a rel="nofollow" href="https://whalesoap.my/">Organic Store</a>.</p>
+										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://whalesoap.my/2021/12/03/test/">Test</a> appeared first on <a rel="nofollow" href="https://whalesoap.my/">Whale Soap</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://whalesoap.my/2021/12/03/test/feed/</wfw:commentRss>
