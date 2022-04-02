@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://whalesoap.my/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="March 30, 2022 11:57 am" -->
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://whalesoap.test/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
+<!-- generated-on="April 2, 2022 1:58 am" -->
 <sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<sitemap>
-		<loc>http://whalesoap.my/sitemap-misc.xml</loc>
-		<lastmod>2022-03-30T11:49:47+00:00</lastmod>
+		<loc>http://whalesoap.test/sitemap-misc.xml</loc>
+		<lastmod>2022-03-30T13:18:09+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://whalesoap.my/sitemap-pt-post-2022-03.xml</loc>
+		<loc>http://whalesoap.test/sitemap-pt-post-2022-03.xml</loc>
 		<lastmod>2022-03-30T11:43:17+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://whalesoap.my/sitemap-pt-page-2022-03.xml</loc>
-		<lastmod>2022-03-30T11:49:47+00:00</lastmod>
+		<loc>http://whalesoap.test/sitemap-pt-page-2022-03.xml</loc>
+		<lastmod>2022-03-30T13:18:09+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: 3b648b5c48198b6fdb20ffe94387875b; Queries for sitemap: 5; Total queries: 44; Seconds: 0; Memory for sitemap: 0MB; Total memory: 4MB -->
+</sitemapindex><!-- Request ID: 85f85c4eb4ed620593bfc38089a99cef; Queries for sitemap: 5; Total queries: 53; Seconds: 0; Memory for sitemap: 0MB; Total memory: 8MB -->
