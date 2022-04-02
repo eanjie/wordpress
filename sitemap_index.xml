@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//whalesoap.test/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>http://whalesoap.test/post-sitemap.xml</loc>
+		<loc>https://whalesoap.my/post-sitemap.xml</loc>
 		<lastmod>2022-03-30T11:43:17+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://whalesoap.test/page-sitemap.xml</loc>
+		<loc>https://whalesoap.my/page-sitemap.xml</loc>
 		<lastmod>2022-04-02T02:30:18+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://whalesoap.test/e-landing-page-sitemap.xml</loc>
+		<loc>https://whalesoap.my/e-landing-page-sitemap.xml</loc>
 	</sitemap>
 	<sitemap>
-		<loc>http://whalesoap.test/product-sitemap.xml</loc>
+		<loc>https://whalesoap.my/product-sitemap.xml</loc>
 	</sitemap>
 	<sitemap>
-		<loc>http://whalesoap.test/category-sitemap.xml</loc>
+		<loc>https://whalesoap.my/category-sitemap.xml</loc>
 		<lastmod>2022-03-30T11:43:17+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://whalesoap.test/author-sitemap.xml</loc>
+		<loc>https://whalesoap.my/author-sitemap.xml</loc>
 		<lastmod>2022-04-02T02:18:00+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
