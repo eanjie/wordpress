@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Malaysia&#039;s Handcrafted Soap Brand</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://whalesoap.my/feed/" rel="self" type="application/rss+xml" />
+	<link>https://whalesoap.my/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 30 Mar 2022 11:43:17 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,31 @@
 	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/03/whale-font-logo-png-100x100.png</url>
+	<url>https://whalesoap.my/wp-content/uploads/2022/03/whale-font-logo-png-100x100.png</url>
 	<title>Malaysia&#039;s Handcrafted Soap Brand</title>
-	<link>/</link>
+	<link>https://whalesoap.my/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/2022/03/30/hello-world/</link>
-					<comments>/2022/03/30/hello-world/#comments</comments>
+		<link>https://whalesoap.my/2022/03/30/hello-world/</link>
+					<comments>https://whalesoap.my/2022/03/30/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[whalesoap]]></dc:creator>
 		<pubDate>Wed, 30 Mar 2022 11:43:17 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://whalesoap.my/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="https://whalesoap.my/2022/03/30/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://whalesoap.my/">Malaysia&#039;s Handcrafted Soap Brand</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="https://whalesoap.my/2022/03/30/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://whalesoap.my/">Malaysia&#039;s Handcrafted Soap Brand</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/03/30/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://whalesoap.my/2022/03/30/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
